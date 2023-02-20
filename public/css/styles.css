@@ -15,6 +15,11 @@
     color: #1abc9c !important;
 }
 
+.post-text {
+    width: 100%;
+    overflow-wrap: break-word;
+}
+
 .footer-padding {
 	padding-bottom: 60px;
 }
